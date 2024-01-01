@@ -1,0 +1,6 @@
+token.class:     12		str:  123       	seman:	0 	
+token.class:     12		str:  456       	seman:	1 	
+token.class:     12		str:  0         	seman:	2 	
+token.class:     12		str:  1         	seman:	3 	
+token.class:     12		str:  3         	seman:	4 	
+token.class:     12		str:  10        	seman:	5 	

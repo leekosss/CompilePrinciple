@@ -1,0 +1,19 @@
+char c ;
+float ft , ff = 1 ;
+int i , a = 1 , b = 3 ;
+char ch = c ;
+a = ( a - b ) + 10 ;
+
+if ( b * b > 3 ) {
+    b = a - b - 10 ;
+} else {
+    b = b * 3 ;
+}
+
+while ( a > 1 ) {
+    a = a / 10 ;
+}
+
+#
+
+

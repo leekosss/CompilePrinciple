@@ -1,0 +1,7 @@
+token.class:     11		str:  c         	seman:	0 	
+token.class:     11		str:  ft        	seman:	1 	
+token.class:     11		str:  ff        	seman:	2 	
+token.class:     11		str:  i         	seman:	3 	
+token.class:     11		str:  a         	seman:	4 	
+token.class:     11		str:  b         	seman:	5 	
+token.class:     11		str:  ch        	seman:	6 	
